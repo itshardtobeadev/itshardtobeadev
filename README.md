@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Miguel Lisboa</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itshardtobeadev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourname/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourname/" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/miguel-lisboa-20584a261//"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourname/" alt="LinkedIn"></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourhandle" alt="Twitter"></a>
   <a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.yourwebsite.com" alt="Website"></a>
 </p>
